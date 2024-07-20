@@ -4,6 +4,8 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    
+    <string name="no_media_playing">Nothing Playing</string>
 
     <!-- Preferred network tile -->
     <string name="quick_settings_preferred_network_label">Preferred network</string>
