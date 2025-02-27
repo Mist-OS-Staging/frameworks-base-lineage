@@ -54,4 +54,6 @@
 
     <!-- Seekbar progress -->
     <color name="seekbar_progress_thumb">#FF000000</color>
+    
+    <color name="toast_color_background">@*android:color/system_neutral1_900</color>
 </resources>
